@@ -10,6 +10,34 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/tags/academic/</loc>
+    <lastmod>2025-03-24T23:06:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-03-24T23:06:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-24T23:06:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/summary3/</loc>
+    <lastmod>2025-03-24T23:06:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/summary4/</loc>
+    <lastmod>2025-03-24T18:01:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/summary1/</loc>
+    <lastmod>2025-03-17T23:06:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/summary2/</loc>
+    <lastmod>2025-03-17T23:06:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -35,10 +63,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/project/scikit/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -112,15 +136,6 @@
   </url><url>
     <loc>http://localhost:1313/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/academic/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/post/summary1/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
